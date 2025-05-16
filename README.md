@@ -17,6 +17,5 @@ This paper presents our system for detecting caste and migration-related hate sp
 
 ![Methodology](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F19186184%2Fe96bd87f147c8eba0b57c7dd96e58db2%2FLDK%20CT.png?generation=1747236784442460&alt=media)
 
-[Caste and Migration Hate Speech Detection: LT-EDI@LDK 2025](https://github.com/borhanitrash/LT-EDI-2025/tree/main/Detecting%20Racial%20Hoaxes%20in%20Code-Mixed%20Hindi-English%20Social%20Media%20Data%20LT-EDI%40LDK%202025
-)
+[Caste and Migration Hate Speech Detection: LT-EDI@LDK 2025](https://github.com/borhanitrash/LT-EDI-2025/tree/main/Caste%20and%20Migration%20Hate%20Speech%20Detection%3A%20LT-EDI%40LDK%202025)
 
